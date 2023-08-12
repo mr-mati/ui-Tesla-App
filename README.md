@@ -3,7 +3,9 @@
 
 <h3 align="center">Ui TESLA App</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="260"/> </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="260"/> </a>
+</p>
 
 <p align="left">
 </p>
