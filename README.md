@@ -4,8 +4,8 @@
 <h3 align="center">Ui TESLA App</h3>
 
 <p align="center">
-  <img src="https://s8.uupload.ir/files/20230808_122723_yvgi.png" alt="android" width="512" height="1080"/> </a>
-    <img src="https://s8.uupload.ir/files/20230808_122733_6mx5.png" alt="android" width="512" height="1080"/> </a>
+  <img src="https://s8.uupload.ir/files/20230808_122723_yvgi.png" alt="android" width="360" height="720"/> </a>
+    <img src="https://s8.uupload.ir/files/20230808_122733_6mx5.png" alt="android" width="360" height="720"/> </a>
 </p>
 
 <p align="left">
